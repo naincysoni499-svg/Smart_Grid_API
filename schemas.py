@@ -3,6 +3,7 @@ from datetime import datetime
 
 class MeterData(BaseModel):
     meter_id: str
+    city_zone: str
     timestamp: datetime
     power_usage: float
     voltage: float
