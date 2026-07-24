@@ -9,3 +9,9 @@ Features:
 - PostgreSQL database
 - Kafka integration
 - Smart Grid telemetry processing
+## Future Improvements
+
+- Add authentication for API access.
+- Visualize zone load using dashboards.
+- Deploy the API using Docker.
+- Add real-time monitoring with Kafka.
